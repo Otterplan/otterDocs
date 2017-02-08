@@ -9,7 +9,7 @@ Living document outlining Otterplan's engineering tools, standards, and document
 - [Slack](https://www.slack.com/) for async communication with teammates.
 - Email for communicating with anyone not in Slack.
 - [AWS](https://aws.amazon.com/) for managing our cloud infrastructure.
-
+- [CircleCI](https://www.circleci.com) for continuous deployment/integration
 
 ## Important Docs
 
@@ -41,13 +41,13 @@ You should not:
   - Assume the reviewer has previous knowledge of the code you're pushing.
   - Assume the reviewer has time to decrypt your PR message into something that makes sense.
 
+### Continuous Deployment/Integratin
+
+We use [CircleCI](https://www.circleci.com) to manage integration and deployment.
+
 ### AWS Infrastructure
 
-TODO
-
-### Milestones
-
-TODO
+We use it.
 
 ### Releasing
 
