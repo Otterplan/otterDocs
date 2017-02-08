@@ -30,6 +30,18 @@ You should not:
 
 Don't forget to maintain work/life balance :)
 
+### Git Branch, Commit, PR messaging
+
+You should:
+  - Prepend your branch name with your initials (jm/onboarding-doc).
+  - Squash PRs with a large number of commits.
+  - Use descriptive commit messages and branch names.
+  - Include a descriptive PR message for the reviewer
+
+You should not:
+  - Assume the reviewer has previous knowledge of the code you're pushing.
+  - Assume the reviewer has time to decrypt your PR message into something that makes sense.
+
 ### AWS Infrastructure
 
 TBD
