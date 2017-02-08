@@ -10,12 +10,13 @@ One stop shop for all the tools you need
 - Email for communicating with anyone not in Slack.
 - [AWS](https://aws.amazon.com/) for managing our cloud infrastructure.
 
+
 ## Important Docs
 
-TBD
+- Leadly design sketch [file](https://www.dropbox.com/sh/fs1mvx38tsxthig/AAAwalIAA_TGyfCjduJpLxGxa?dl=0)
+
 
 ## Processes
-
 
 ### Contributing
 
@@ -44,19 +45,19 @@ You should not:
 
 ### AWS Infrastructure
 
-TBD
+TODO
 
 ### Milestones
 
-TBD
+TODO
 
-### Releases
+### Releasing
 
-TBD
+TODO
 
 ### Standups
 
-TBD
+TODO
 
 
 ## Style Guides
