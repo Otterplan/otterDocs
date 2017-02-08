@@ -1,5 +1,5 @@
 # New Engineer Onboarding
-One stop shop for all the tools you need
+Living document outlining Otterplan's engineering tools, standards, and documents.
 
 ## Tools
 
@@ -29,8 +29,6 @@ You should not:
   - Push directly to master or prod.
   - Push code without working tests.
 
-Don't forget to maintain work/life balance :)
-
 ### Git Branch, Commit, PR messaging
 
 You should:
@@ -53,11 +51,26 @@ TODO
 
 ### Releasing
 
-TODO
+You should:
+  - Use [semver](http://semver.org/).
+  - Use tag commits with the release version, ex 'v0.1.0'
+  - Use Github's release feature to publish release notes
+
+You should not:
+  - Push to master or prod without a release tag.
+  - Push to master or prod without bumping the version.
 
 ### Standups
 
-TODO
+You should:
+  - Use trello to quickly communicate high level goals daily.
+    - ex "James's Daily Priorities" - Inbox | Daily | Completed | Blocked
+  - Don't be afraid to ask questions if you're blocked or stuck :)
+  - Reflect on your estimation accuracy at regular intervals.
+
+You should not:
+  - Overestimate and have to rush to complete work with a lower quality.
+  - Think you need to move lots of cards to look productive.
 
 
 ## Style Guides
@@ -67,3 +80,11 @@ TODO:
   - Link to React style guide
   - Link to Python style guide
   - Add Tim's design style guide
+
+
+## ETC
+
+Don't forget the work/life balance :)
+
+
+
