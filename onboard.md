@@ -9,7 +9,7 @@ Living document outlining Otterplan's engineering tools, standards, and document
 - [Slack](https://www.slack.com/) for async communication with teammates.
 - Email for communicating with anyone not in Slack.
 - [AWS](https://aws.amazon.com/) for managing our cloud infrastructure.
-
+- [CircleCI](https://www.circleci.com) for continuous deployment/integration
 
 ## Important Docs
 
