@@ -1,7 +1,7 @@
-# Full Stack Engineer
+# Early Startup Full Stack Engineer
 
 ## Who We Are
-The Wed Clique is a vendor network and 1-click wedding platform, facilitating and selling packages of vendor services matched to a customers’ unique vision for their event. We are a Techstars Austin 2017 alumni and currently a 4 person company, with the engineering team at 1.
+The Wed Clique is a vendor network and 1-click wedding platform, facilitating and selling packages of vendor services matched to a customers’ unique vision for their event. We are a Techstars Austin 2017 alumni and currently a 4 person company, and you will be #2 on our engineering team.
 
 ## What We Are
 Our app is built isomorphically with TypeScript, implementing React, Apollo GraphQL, and PostgreSQL. Worker tasks and analytics are built with Python. AWS hosts everything we use. ML tech soon to come.
@@ -9,14 +9,14 @@ Our app is built isomorphically with TypeScript, implementing React, Apollo Grap
 ## What we are looking for
 - Someone from or willing to relocate to Austin, TX.
 - A communicator first and an engineer second.
-- A problem solver.
+- A problem solver, drive to constantly learn more.
 - A track record of getting things done in a startup atmosphere and autonomous environment.
 - Someone excited about pioneering solutions using the newest technologies (and then shipping them).
 
 ## What You'll Do
 - Communicate often with non-technical team members on product direction and design.
-- Own service architectures and implementation.
-- Solve cool problems however you want to solve them.
+- Own service architectures, implementation and support.
+- Solve interesting social graph problems, with the freedom to choose how you want to solve them.
 - Write good code (with tests) :)
 - Deploy code to production daily.
 
