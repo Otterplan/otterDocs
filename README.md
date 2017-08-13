@@ -57,5 +57,9 @@ Make sure both otterDB and otterAPI are up and running
 - `yarn install`
 - `yarn start:dev`
 
+## Bridal-Platform
 
-
+Make sure both otterDB and otterAPI are up and running.
+- Runs on port `3020` so make sure it is free (will collide with Vendor-Platform
+- `yarn install`
+- `yarn start:dev`
